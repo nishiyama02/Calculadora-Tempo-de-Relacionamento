@@ -13,8 +13,6 @@ class FirstTableViewController: UITableViewController {
     @IBOutlet weak var nomeDele: UITextField!
     @IBOutlet weak var nomeDela: UITextField!
     @IBOutlet weak var myDatePicker: UIDatePicker!
-    
-    
 
     
     override func viewDidLoad() {

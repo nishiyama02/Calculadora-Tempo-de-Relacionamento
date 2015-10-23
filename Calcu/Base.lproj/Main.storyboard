@@ -100,6 +100,9 @@
                                                     <animations/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits" autocapitalizationType="words" keyboardAppearance="alert" returnKeyType="done"/>
+                                                    <variation key="widthClass=compact" misplaced="YES">
+                                                        <rect key="frame" x="73" y="7" width="319" height="29"/>
+                                                    </variation>
                                                 </textField>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nome: " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S9L-ho-Pfw">
                                                     <rect key="frame" x="-42" y="-21" width="42" height="21"/>
@@ -117,7 +120,8 @@
                                                             <exclude reference="i9j-yk-zec"/>
                                                         </mask>
                                                     </variation>
-                                                    <variation key="widthClass=compact">
+                                                    <variation key="widthClass=compact" misplaced="YES">
+                                                        <rect key="frame" x="-18" y="11" width="83" height="21"/>
                                                         <mask key="constraints">
                                                             <include reference="ZTS-b3-t3J"/>
                                                             <include reference="i9j-yk-zec"/>
